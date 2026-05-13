@@ -12,10 +12,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>📧 shimanto.rehman.bd@gmail.com</p>
-    <p>📞 +880 1782-412446</p>
-    <p>📍 Nikunja-2, Khilkhet, Dhaka-1229, Bangladesh</p>
-    <p>🌐 <a href="https://shimanto.online" target="_blank">shimanto.online</a></p>
+    <p>**Email:** shimanto.rehman.bd@gmail.com</p>
+    <p>**Phone:** +880 1782-412446</p>
+    <p>Nikunja-2, Khilkhet, Dhaka-1229, Bangladesh</p>
+    <p><a href="https://shimanto.online" target="_blank">shimanto.online</a></p>
     <p>🆔 ORCID: 0009-0007-9072-8458</p>
 
 selected_papers: true
