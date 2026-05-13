@@ -30,18 +30,14 @@ latest_posts:
   limit: 3
 ---
 
-I am **S.M. Obaydur Rahman (Shimanto)**, a Software Engineer at [Mutual Trust Bank PLC](https://www.mutual-trust.com/) and a graduate of **Computer Science and Engineering** from [Shahjalal University of Science and Technology (SUST)](https://www.sust.edu/), Bangladesh. My academic training spans **Machine Learning, Deep Learning, Artificial Intelligence, and Database Systems**, and I am actively pursuing research at the intersection of **NLP, deep learning architectures, and applied AI** for real-world sociotechnical problems.
+I am **S.M. Obaydur Rahman (Shimanto)**, a Software Engineer at [Mutual Trust Bank PLC](https://www.mutual-trust.com/) and a Computer Science & Engineering graduate from [Shahjalal University of Science and Technology (SUST)](https://www.sust.edu/), Bangladesh. My academic training spans **Machine Learning, Deep Learning, Artificial Intelligence, and Database Systems**, and I am actively pursuing research at the intersection of intelligent systems and real-world impact.
 
-My research interests include:
-- **Natural Language Processing** — sentiment analysis, low-resource Bengali NLP, social media mining
-- **Deep Learning** — RNN, LSTM, GRU, Transformer architectures, and hybrid ensemble models
-- **Applied ML for public health & renewable energy** — policy-oriented predictive modeling
-- **Federated & scalable ML systems** — integrating AI into enterprise and fintech backends
+My research interests lie in **NLP and low-resource language AI** — particularly Bengali — **deep learning architectures** (RNN, LSTM, GRU, Transformers), **hybrid ensemble methods**, and **applied ML** for public health, sustainable energy, and computational biology. I am drawn to problems where machine intelligence can meaningfully inform policy and human decisions in underrepresented contexts.
 
-**Research highlights:** My undergraduate thesis applied classical ML (NB, SVM, RF, LR, AdaBoost, GB) and deep learning models (RNN, LSTM, GRU) to Bengali social media comments on COVID-19 post-vaccination sentiment in Bangladesh — achieving **78.8% accuracy with LSTM + Word2Vec** on a manually annotated dataset of 3,807 records. I have also co-authored a published paper in the *Egyptian Journal of Medical Human Genetics* applying in-silico predictive modeling to genetic pathways in wound healing, and contributed to research on **hybrid stacked ensemble deep learning** (Random Forest + XGBoost + Gradient Boosting + AdaBoost + MLP meta-learner) for solar energy holding capacity prediction in Bangladesh, achieving **95.4% accuracy**.
+On the research front, I have investigated sentiment dynamics in Bengali social media around COVID-19 vaccination, explored hybrid stacked ensemble frameworks for solar energy forecasting across Bangladesh, and co-authored a published study in the *Egyptian Journal of Medical Human Genetics* applying in-silico predictive modeling to genetic wound-healing pathways — spanning NLP, renewable energy, and computational biology across three distinct domains.
 
-Professionally, I have worked across fintech (Dana Fintech), global logistics (V Shipping BD), and digital banking (Mutual Trust Bank PLC), building backend systems, middleware, and AI-powered automation at scale. This gives my research a strong applied orientation — I am interested in systems that are not only theoretically sound but deployable in resource-constrained environments.
+Beyond academia, three years of industry experience across fintech (Dana Fintech), global logistics (V Shipping BD), and digital banking (Mutual Trust Bank PLC) have shaped how I think about research — I care about systems that are robust, efficient, and deployable in resource-constrained environments, not just accurate in isolation.
 
-I am actively seeking **PhD or research collaboration opportunities** with groups working on NLP, low-resource language AI, health informatics, or ML for sustainable development. If you are working on problems at this intersection, I would love to connect.
+I am actively seeking **PhD or research collaboration opportunities** with groups working on NLP, low-resource language AI, health informatics, or ML for sustainable development. If your work touches any of these frontiers, I would very much welcome the conversation.
 
 📄 [Curriculum Vitae](/assets/pdf/resume.pdf) · 🔬 [Publications](/publications/) · 💻 [Projects](https://shimanto.online/projects) · 🐙 [GitHub](https://github.com/shimanto-rehman)
