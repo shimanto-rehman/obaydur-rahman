@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: <h1>S.M. Obaydur Rahman<h1/>
 permalink: /
 subtitle: >
   Software Engineer · <a href="https://www.mutual-trust.com/" target="_blank">Mutual Trust Bank PLC</a> ·
