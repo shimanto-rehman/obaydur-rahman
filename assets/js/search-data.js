@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-h1-s-m-obaydur-rahman-h1",
-    title: "<h1>S.M. Obaydur Rahman<h1/>",
+    id: "nav-about",
+    title: "about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/obaydur-rahman/";
