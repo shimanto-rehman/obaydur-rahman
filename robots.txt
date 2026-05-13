@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://shimanto-rehman.github.io//obaydur-rahman/sitemap.xml
+Sitemap: https://shimanto-rehman.github.io/obaydur-rahman/sitemap.xml
