@@ -1,9 +1,22 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Publication venue abbreviations, URLs, and badge colors
+# Used by Jekyll Scholar to link and style venue names in the bibliography
 
-"PhysRev":
-  url: https://journals.aps.org/
+"IEEE":
+  url: https://ieeexplore.ieee.org/
+  color: "#00629B"
 
-"Vision":
-  color: "#009f36"
+"QPAIN":
+  url: https://ieeexplore.ieee.org/
+  color: "#00629B"
+
+"EJMHG":
+  url: https://link.springer.com/journal/43042
+  color: "#d4430f"
+
+"Springer":
+  url: https://link.springer.com/
+  color: "#d4430f"
+
+"SUST":
+  url: https://www.sust.edu/departments/cse
+  color: "#2e7d32"
