@@ -1,34 +1,58 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+# Co-authors of S.M. Obaydur Rahman
+# Last names as keys, with firstname variants and profile URLs
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"islam":
+  - firstname: ["Aminul", "A."]
+    url: https://www.mist.ac.bd/department/cse/faculty
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"hossin":
+  - firstname: ["Akbar", "A."]
+    url: https://www.bubt.edu.bd/department/cse
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"sharika":
+  - firstname: ["Rubaia", "R."]
+    url: https://pstu.ac.bd/department/cse
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"hasan":
+  - firstname: ["Mahedi", "M."]
+    url: https://www.sust.edu/departments/cse
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"mumin":
+  - firstname: ["Mohammad Abdullah Al", "M. A. Al", "M. Abdullah Al"]
+    url: https://www.sust.edu/departments/cse/faculty/mumin-cse@sust.edu
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"rahman":
+  - firstname: ["Mohammad Shahidur", "M. Shahidur", "M. S."]
+    url: https://www.sust.edu/departments/cse/faculty/rahmanms@sust.edu
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"reshad":
+  - firstname: ["R. A. I.", "Reshad"]
+    url: https://www.researchgate.net/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"alam":
+  - firstname: ["S.", "Sakib"]
+    url: https://www.researchgate.net/
+
+"raihan":
+  - firstname: ["H. B.", "Hasin Brinto"]
+    url: https://www.researchgate.net/
+
+"meem":
+  - firstname: ["K. N.", "Kaniz Noor"]
+    url: https://www.researchgate.net/
+
+"zahid":
+  - firstname: ["F.", "Farhan"]
+    url: https://www.researchgate.net/
+
+"rafid":
+  - firstname: ["M. I.", "Md. Iftekhar"]
+    url: https://www.researchgate.net/
+
+"omit":
+  - firstname: ["S.", "Sumaita"]
+    url: https://www.researchgate.net/
+
+"ali":
+  - firstname: ["M. H.", "Md. Hasan"]
+    url: https://www.researchgate.net/
