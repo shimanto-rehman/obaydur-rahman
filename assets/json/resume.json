@@ -347,14 +347,14 @@
 
   "references": [
     {
-      "name": "Mohammad Abdullah Al Mumin, PhD",
+      "name": "Mohammad Shahidur Rahman, PhD",
       "icon": "fa-solid fa-user-tie",
-      "reference": "Professor, Department of Computer Science and Engineering, Shahjalal University of Science and Technology, Sylhet-3114, Bangladesh. Undergraduate thesis supervisor. Email: mumin-cse@sust.edu · Phone: +880 1711-445110"
+      "reference": "Professor, Department of Computer Science and Engineering, Shahjalal University of Science and Technology (SUST), Sylhet-3114, Bangladesh. Research areas: Natural Language Processing, Bangla Speech Processing, Federated Identity Management, Deep Learning. Founder of the SUST TTS Corpus for Bangla speech synthesis. Profile: [sust.edu](https://www.sust.edu/departments/cse/faculty/rahmanms@sust.edu) · Email: rahmanms@sust.edu"
     },
     {
-      "name": "Mohammad Mohiuddin Ali Azam",
+      "name": "Mohammad Abdullah Al Mumin, PhD",
       "icon": "fa-solid fa-user-tie",
-      "reference": "Assistant Professor (Govt. Service), Department of Botany, Govt. Shaheed Abdur Rob Serniabat Degree College, Barisal, Bangladesh. Co-author on computational biology publication. Email: shimanto.rehman.bd@gmail.com"
+      "reference": "Professor, Department of Computer Science and Engineering, Shahjalal University of Science and Technology (SUST), Sylhet-3114, Bangladesh. Undergraduate thesis supervisor. Research areas: NLP, Machine Translation, Corpus Linguistics, Deep Learning. Founder of BanglaSketch Lab and developer of SUMono & SUPara corpora. Profile: [sust.edu](https://www.sust.edu/departments/cse/faculty/mumin-cse@sust.edu) · Email: mumin-cse@sust.edu · Phone: +880 1711-445110"
     }
   ],
 
