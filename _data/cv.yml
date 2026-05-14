@@ -1,189 +1,341 @@
-cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
-
-  sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
-
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+basics:
+  name: S.M. Obaydur Rahman
+  label: Software Engineer & ML Researcher
+  image: /assets/img/prof_pic.jpg
+  email: shimanto.rehman.bd@gmail.com
+  phone: +880 1782-412446
+  url: https://shimanto.online
+  summary: Software Engineer with a research orientation in NLP, deep learning, and
+    applied machine intelligence. CSE graduate of Shahjalal University of Science
+    and Technology (SUST), currently working at Mutual Trust Bank PLC. Actively seeking
+    PhD opportunities in NLP, low-resource language AI, and ML for sustainable development.
+  location:
+    address: Nikunja-2, Zone-1, Ward-17
+    postalCode: '1229'
+    city: Dhaka
+    countryCode: BD
+    region: Dhaka North City Corporation, Khilkhet
+  profiles:
+  - network: GitHub
+    username: shimanto-rehman
+    url: https://github.com/shimanto-rehman
+  - network: LinkedIn
+    username: shimanto-rehman
+    url: https://www.linkedin.com/in/shimanto-rehman/
+  - network: Google Scholar
+    username: x-HOtR4AAAAJ
+    url: https://scholar.google.com/citations?user=x-HOtR4AAAAJ&hl=en
+  - network: ORCID
+    username: 0009-0007-9072-8458
+    url: https://orcid.org/0009-0007-9072-8458
+  - network: ResearchGate
+    username: shimanto_rehman
+    url: https://www.researchgate.net/profile/S-M-Obaydur-Rahman
+work:
+- name: Mutual Trust Bank PLC
+  position: Software Engineer — Satellite & Digital Ecosystem Development Unit
+  url: https://www.mutual-trust.com/
+  startDate: 2025-05
+  endDate: ''
+  location: Dhaka-1208, Bangladesh
+  summary: Digital Banking Division (Associate)
+  highlights:
+  - Developing and maintaining software systems within the Satellite & Digital Ecosystem
+    Development Unit under the Digital Banking Division.
+  - Contributing to fintech infrastructure modernization and AI-assisted digital banking
+    workflows.
+  - Working at the intersection of enterprise software engineering and emerging financial
+    technology.
+- name: V Shipping BD
+  position: Full-Stack Software Developer
+  url: ''
+  startDate: 2023-09
+  endDate: 2025-04
+  location: Nikunja C/A, Dhaka-1229, Bangladesh
+  summary: End-to-end development of logistics and shipping management systems.
+  highlights:
+  - Architected and built full-stack web applications for global shipping operations
+    using Next.js and Node.js.
+  - Designed and optimized relational database schemas for large-scale logistics data.
+  - Collaborated across cross-functional teams to deliver reliable, production-grade
+    software under tight deadlines.
+- name: Dana Fintech Ltd
+  position: Associate Software Engineer (Backend)
+  url: ''
+  startDate: 2021-12
+  endDate: 2023-01
+  location: Gulshan-1, Dhaka-1212, Bangladesh
+  summary: Backend engineering for a fintech platform serving micro-finance and digital
+    lending.
+  highlights:
+  - Developed and maintained RESTful API services in PHP and CodeIgniter for a digital
+    lending platform.
+  - Worked with Oracle database systems, including RMAN backup strategies and Toad-based
+    query optimization.
+  - Contributed to reducing backend latency through systematic query profiling and
+    index optimization.
+education:
+- institution: Shahjalal University of Science and Technology (SUST)
+  url: https://www.sust.edu/
+  area: Computer Science and Engineering
+  studyType: B.Sc. in Computer Science and Engineering
+  startDate: 2016-01
+  endDate: 2022-08
+  location: Sylhet, Bangladesh
+  score: 3.14 / 4.00
+  courses:
+  - Machine Learning
+  - Artificial Intelligence
+  - Deep Learning
+  - Natural Language Processing
+  - Database Systems
+  - Data Structures & Algorithms
+  - Computer Networks
+  - Software Engineering
+  highlights:
+  - 'Thesis: *Sentiment Analysis of Social Media Comments on COVID-19 Post-Vaccination
+    in Bangladesh* — applied classical ML, ensemble, and deep learning models to a
+    manually annotated Bengali dataset.'
+  - 'Supervisor: Mohammad Abdullah Al Mumin, PhD, Professor, Dept. of CSE, SUST.'
+- institution: Govt. Syed Hatem Ali College
+  url: ''
+  area: Science
+  studyType: Higher Secondary Certificate (HSC)
+  startDate: 2014-03
+  endDate: 2016-01
+  location: Barisal, Bangladesh
+  score: GPA 5.00 / 5.00
+  highlights: []
+- institution: Barishal Zilla School
+  url: ''
+  area: Science
+  studyType: Secondary School Certificate (SSC)
+  startDate: 2010-04
+  endDate: 2014-01
+  location: Barisal, Bangladesh
+  score: GPA 5.00 / 5.00
+  highlights: []
+publications:
+- name: Advanced Hybrid Deep Learning Models for Solar Energy Holding Capacity Prediction
+    in Bangladesh
+  publisher: IEEE International Conference (QPAIN 2026)
+  releaseDate: '2026'
+  url: https://shimanto.online/publications
+  summary: Proposed a hybrid stacking ensemble framework combining Random Forest,
+    XGBoost, Gradient Boosting, and AdaBoost with an MLP meta-learner to forecast
+    solar energy holding capacity across districts of Bangladesh. The model integrates
+    diverse climatic and environmental indicators to support renewable energy planning
+    and policy-making.
+  authors: Aminul Islam, S.M. Obaydur Rahman, Akbar Hossin, Rubaia Sharika
+- name: Sentiment Analysis of Social Media Comments on COVID-19 Post-Vaccination in
+    Bangladesh
+  publisher: Undergraduate Thesis, Dept. of CSE, SUST
+  releaseDate: 2023-03
+  url: ''
+  summary: Investigated public sentiment toward COVID-19 vaccination in Bangladesh
+    using a manually annotated Bengali dataset of 3,807 social media records. Applied
+    and benchmarked classical ML classifiers, ensemble methods, and deep learning
+    models (RNN, LSTM, GRU) with multiple feature extraction strategies including
+    TF-IDF, N-grams, BoW, and Word2Vec.
+  authors: S.M. Obaydur Rahman, Mahedi Hasan
+- name: In silico investigations on curcuminoids from Curcuma longa as positive regulators
+    of the Wnt/β-catenin signaling pathway in wound healing
+  publisher: Egyptian Journal of Medical Human Genetics, Vol. 22, Issue 65
+  releaseDate: 2021-07
+  url: https://link.springer.com/article/10.1186/s43042-021-00182-9
+  summary: Co-authored a computational biology study applying molecular docking and
+    in-silico predictive modeling to investigate curcuminoids from Curcuma longa as
+    potential activators of key proteins in the Wnt/β-catenin wound-healing pathway.
+    Published in a Springer Nature journal; 15+ citations.
+  authors: R.A.I. Reshad, S. Alam, H.B. Raihan, K.N. Meem, F. Rahman, F. Zahid, M.I.
+    Rafid, S.M. Obaydur Rahman, S. Omit, M.H. Ali
+projects:
+- name: COVID-19 Post-Vaccination Sentiment Analyzer
+  url: ''
+  startDate: 2022-09
+  endDate: 2023-03
+  summary: End-to-end ML pipeline for Bengali social media sentiment analysis on COVID-19
+    vaccination discourse. Built a manually annotated dataset of 3,807 records from
+    Facebook, Twitter, and Instagram, and benchmarked nine ML/DL models across four
+    feature extraction strategies.
+  highlights:
+  - 'Stack: Python, Flask (API), Next.js (Frontend), TensorFlow, scikit-learn'
+  - 'Models: NB, SVM, LR, Decision Tree, RF, AdaBoost, Gradient Boosting, RNN, LSTM,
+    GRU'
+  - 'Features: TF-IDF, N-grams, Bag-of-Words, Word2Vec (Gensim, size 3000)'
+- name: Solar Energy Holding Capacity Forecaster
+  url: ''
+  startDate: '2024'
+  endDate: '2025'
+  summary: Hybrid stacking ensemble model for predicting solar energy holding capacity
+    across Bangladesh districts. Base learners (RF, XGBoost, GradientBoosting, AdaBoost)
+    feed into an MLP meta-learner, integrating environmental, climatic, and socio-economic
+    features.
+  highlights:
+  - 'Stack: Python, scikit-learn, XGBoost, TensorFlow/Keras'
+  - 'Dataset: Kaggle-sourced district-level Bangladesh solar data with engineered
+    features'
+  - Submitted to IEEE International Conference (QPAIN 2026)
+- name: WiFi-Talk — LAN Chat via WebSocket
+  url: https://github.com/shimanto-rehman
+  startDate: 2019-10
+  endDate: 2019-10
+  summary: Real-time LAN chat application built to demonstrate WebSocket communication.
+    Implemented a Flutter mobile client and a Node.js WebSocket server, applying provider
+    pattern, web_socket_channel, and UUID packages.
+  highlights:
+  - 'Stack: Flutter, Dart, Node.js (ws npm package)'
+  - 'Demonstrates: WebSocket protocol, Flutter provider state management, LAN networking'
+awards:
+- title: Associate Member — The Institution of Engineers, Bangladesh (IEB)
+  date: 2025-09
+  awarder: The Institution of Engineers, Bangladesh
+  url: https://www.iebbd.org/
+  summary: 'Member ID: A-28590. Recognized as a qualified engineering professional
+    by the national statutory body for engineers in Bangladesh.'
+- title: Associate Member — Bangladesh Computer Society (BCS)
+  date: 2025-09
+  awarder: Bangladesh Computer Society
+  url: https://bcs.org.bd/
+  summary: 'Member ID: AM16230. Recognized member of the national professional body
+    for computing and IT professionals in Bangladesh.'
+- title: HSC — Perfect GPA
+  date: 2016-01
+  awarder: Govt. Syed Hatem Ali College, Barisal Board
+  summary: Achieved GPA 5.00 / 5.00 in the Higher Secondary Certificate examination.
+- title: SSC — Perfect GPA
+  date: 2014-01
+  awarder: Barishal Zilla School, Barisal Board
+  summary: Achieved GPA 5.00 / 5.00 in the Secondary School Certificate examination.
+certificates:
+- name: Introduction to Applied Machine Learning
+  date: 2021-10
+  issuer: IBM / Coursera
+  url: ''
+  icon: fa-solid fa-brain
+  summary: 'Credential ID: N6GDHPMUWFJM'
+- name: Exploratory Data Analysis for Machine Learning
+  date: 2021-11
+  issuer: IBM / Coursera
+  url: ''
+  icon: fa-solid fa-chart-line
+  summary: 'Credential ID: TSZZ9JPKPH3A'
+- name: Software Development Processes and Methodologies
+  date: 2021-11
+  issuer: University of Minnesota / Coursera
+  url: ''
+  icon: fa-solid fa-code-branch
+  summary: 'Credential ID: 6LUCN47CJT93'
+skills:
+- name: Machine Learning & Deep Learning
+  level: Advanced
+  icon: fa-solid fa-brain
+  keywords:
+  - Supervised & Unsupervised Learning
+  - Deep Learning (RNN, LSTM, GRU)
+  - Transformer Architectures
+  - Hybrid Ensemble Methods
+  - Feature Engineering
+  - Model Optimization
+  - Exploratory Data Analysis
+  - NLP & Sentiment Analysis
+- name: Programming Languages
+  level: Proficient
+  icon: fa-solid fa-code
+  keywords:
+  - Python
+  - JavaScript
+  - SQL
+  - PHP
+  - Java
+  - C++
+  - Dart
+  - C#
+- name: Frameworks & Tools
+  level: Proficient
+  icon: fa-solid fa-wrench
+  keywords:
+  - TensorFlow
+  - scikit-learn
+  - Next.js
+  - Node.js
+  - Flask
+  - CodeIgniter
+  - Flutter
+  - Docker
+  - Git
+  - Firebase
+  - Oracle
+  - Toad
+  - RMAN
+  - LaTeX
+- name: Research & Academic
+  level: Experienced
+  icon: fa-solid fa-microscope
+  keywords:
+  - Scientific Writing
+  - Literature Review
+  - Experimental Design
+  - Statistical Analysis
+  - Data Annotation
+  - Molecular Docking (in-silico)
+  - LaTeX Typesetting
+languages:
+- language: Bengali
+  fluency: Native
+  icon: fa-solid fa-language
+- language: English
+  fluency: Professional working proficiency (reading, writing, and academic communication)
+  icon: fa-solid fa-language
+interests:
+- name: Research Interests
+  icon: fa-solid fa-magnifying-glass
+  keywords:
+  - Natural Language Processing
+  - Low-resource Bengali NLP
+  - Transformer Architectures
+  - Health Informatics & Public Health AI
+  - ML for Sustainable Energy
+  - Computational Biology
+- name: Engineering Interests
+  icon: fa-solid fa-microchip
+  keywords:
+  - Cloud Computing & Microservices
+  - Serverless Architectures
+  - Database Design & Optimization
+  - Fintech Systems
+  - Competitive Programming
+references:
+- name: Mohammad Shahidur Rahman, PhD
+  icon: fa-solid fa-user-tie
+  reference: 'Professor, Department of Computer Science and Engineering, Shahjalal
+    University of Science and Technology (SUST), Sylhet-3114, Bangladesh. Research
+    areas: Natural Language Processing, Bangla Speech Processing, Federated Identity
+    Management, Deep Learning. Founder of the SUST TTS Corpus for Bangla speech synthesis.
+    Profile: [sust.edu](https://www.sust.edu/departments/cse/faculty/rahmanms@sust.edu)
+    · Email: rahmanms@sust.edu'
+- name: Mohammad Abdullah Al Mumin, PhD
+  icon: fa-solid fa-user-tie
+  reference: 'Professor, Department of Computer Science and Engineering, Shahjalal
+    University of Science and Technology (SUST), Sylhet-3114, Bangladesh. Undergraduate
+    thesis supervisor. Research areas: NLP, Machine Translation, Corpus Linguistics,
+    Deep Learning. Founder of BanglaSketch Lab and developer of SUMono & SUPara corpora.
+    Profile: [sust.edu](https://www.sust.edu/departments/cse/faculty/mumin-cse@sust.edu)
+    · Email: mumin-cse@sust.edu · Phone: +880 1711-445110'
+volunteer:
+- organization: The Institution of Engineers, Bangladesh (IEB)
+  position: Associate Member
+  url: https://www.iebbd.org/
+  startDate: 2025-09
+  endDate: ''
+  summary: 'Active member of the national statutory engineering body of Bangladesh.
+    Member ID: A-28590.'
+  highlights: []
+- organization: Bangladesh Computer Society (BCS)
+  position: Associate Member
+  url: https://bcs.org.bd/
+  startDate: 2025-09
+  endDate: ''
+  summary: 'Active member of the national professional body for computing and IT in
+    Bangladesh. Member ID: AM16230.'
+  highlights: []
